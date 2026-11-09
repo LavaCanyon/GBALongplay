@@ -1,0 +1,50 @@
+{
+  "rom_mib": 64,
+  "reserve_mib": 0.5,
+  "fps": 10,
+  "vq": true,
+  "vq_fps": 1,
+  "vq_samples": 80000,
+  "vq_edge_fraction": 0.5,
+  "episodes": [
+    {
+      "title": "EPISODE 1",
+      "source": "episode-01.mp4",
+      "thumbnail_time": 5,
+      "undefined": "C:\\fakepath\\Special Picture.mp4"
+    },
+    {
+      "title": "EPISODE 2",
+      "source": "episode-02.mp4",
+      "thumbnail_time": 5,
+      "undefined": "C:\\fakepath\\The guy who invented mathematical logic [E3gbQt7wOl4].mp4"
+    }
+  ],
+  "theme": {
+    "name": "Classic Blue",
+    "background": "#081830",
+    "header": "#182c54",
+    "selection": "#38589c",
+    "text": "#ffffff",
+    "muted": "#b5bdcf",
+    "border": "#ffffff",
+    "headerTitle": "GBA LONGPLAY",
+    "footerText": "A PLAY   UP DOWN SELECT",
+    "list": {
+      "x": 4,
+      "y": 81,
+      "row": 16
+    },
+    "thumb": {
+      "x": 152,
+      "y": 24,
+      "w": 80,
+      "h": 48
+    },
+    "overlay": {
+      "y": 144,
+      "h": 12,
+      "duration": 90
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "format": "GLP_MATRIX64_TEMPLATE",
+  "version": 1,
+  "album_offset": 458752,
+  "runtime_offset": 131072,
+  "runtime_size": 13440,
+  "bss_start": "0x02003480",
+  "bss_end": "0x02039760",
+  "sha256": {
+    "matrix64-boot.gba": "146799e30fd30e804ce25f200323d339db38d56c7b432481eb50ab546e777ed7",
+    "matrix64-runtime.bin": "63f4b67eeeb672be98b395f98cf3498c7cf36acf836ebf23e466df0e8553f957"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "AnimeExample.txt": {
+    "frames": 409,
+    "patches": 981600,
+    "unique_patterns": 168416,
+    "codebook_entries": 256,
+    "non_solid_entries": 187,
+    "exact_coverage_percent": 54.30980032599837,
+    "changed_patches": 245752,
+    "changed_patch_coverage_percent": 17.898124938962855,
+    "top_pattern_uses": 149129,
+    "codebook_uses": 533105
+  },
+  "Richard Williams Ad.mp4.txt": {
+    "frames": 330,
+    "patches": 792000,
+    "unique_patterns": 294727,
+    "codebook_entries": 256,
+    "non_solid_entries": 208,
+    "exact_coverage_percent": 52.222727272727276,
+    "changed_patches": 443096,
+    "changed_patch_coverage_percent": 20.46621950999332,
+    "top_pattern_uses": 162353,
+    "codebook_uses": 413604
+  }
+}

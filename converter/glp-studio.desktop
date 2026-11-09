@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=GLP Studio
+Comment=Offline Game Boy Advance video album converter
+Exec=sh -c 'cd "$(dirname "%k")/.." && python3 converter/desktop.py'
+Icon=applications-multimedia
+Terminal=false
+Categories=AudioVideo;Utility;

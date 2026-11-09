@@ -1,0 +1,4 @@
+numpy>=2.0
+scikit-learn>=1.5
+Pillow>=10.0
+imageio-ffmpeg>=0.5

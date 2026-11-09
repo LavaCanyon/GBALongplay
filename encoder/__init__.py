@@ -1,0 +1,1 @@
+"""GBA Longplay reference encoder."""
