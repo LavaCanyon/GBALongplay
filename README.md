@@ -9,7 +9,7 @@ This is an AI constructed GBA Video Converter for Python.
 Rom building can take a very long time if you do the full 40 minutes; hours long
 However after building, the videos are cached and can be rebuilt much faster.
 It is recommended to input your video files then build first before customizing the menu stuff so you can do that work in tandum to the build process.
-The gui will still be fully functional and you can simply rebuilt with the cache after you and the program are done.
+The gui will still be fully functional and you can simply rebuild with the cache after you and the program are done.
 
 
 Overall a very cool program. AI did most everything so can't get in detail with all the inner working but it does what it does and it does it well. Have fun!
